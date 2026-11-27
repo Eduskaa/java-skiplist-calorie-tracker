@@ -4,7 +4,7 @@ My own implementation of a **skip list** data structure in Java, with a calorie 
 
 **Tech:** Java, Swing, NetBeans
 
-![Calorie tracker GUI](screenshot.png)
+![Calorie tracker GUI](java-skiplist-calorie-tracker/screenshot.png)
 
 ---
 
